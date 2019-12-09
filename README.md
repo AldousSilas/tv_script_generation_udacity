@@ -1,4 +1,4 @@
-# tv_script_generation_udacity
+# TV_script_generation_udacity
 The `ipynb` file in this `repo` has implemented and passed the requirements for Udacity tv script generation project in deep learning Nano-degree.
 
 ## Usage
